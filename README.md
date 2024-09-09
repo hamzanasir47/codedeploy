@@ -1,3 +1,5 @@
+
+![block diagram](https://github.com/user-attachments/assets/a15851a5-bd9a-462e-a3c4-f18f3e20c63a)
 # AWS CI/CD Pipeline for Node.js Application
 ## 𝗚𝗶𝘁 𝗥𝗲𝗽𝗼𝘀𝗶𝘁𝗼𝗿𝘆 𝗦𝗲𝘁𝘂𝗽:
 -Forked Node.js app repo to GitHub
@@ -18,3 +20,5 @@
 -Created pipeline with Source, Build, and Deploy stages
 -Integrated GitHub, CodeBuild, and Elastic Beanstalk
 -Added a Review stage for enhanced quality control
+
+
