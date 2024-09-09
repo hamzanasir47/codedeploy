@@ -1,5 +1,5 @@
 **AWS CI/CD Pipeline for Node.js Application**
-𝗚𝗶𝘁 𝗥𝗲𝗽𝗼𝘀𝗶𝘁𝗼𝗿𝘆 𝗦𝗲𝘁𝘂𝗽:
+/𝗚𝗶𝘁 𝗥𝗲𝗽𝗼𝘀𝗶𝘁𝗼𝗿𝘆 𝗦𝗲𝘁𝘂𝗽:
 -Forked Node.js app repo to GitHub
 -Cloned repo locally using Git Bash
 -Development and Testing:
